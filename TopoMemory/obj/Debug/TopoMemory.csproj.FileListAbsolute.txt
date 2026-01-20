@@ -1,0 +1,10 @@
+D:\davide8540\@Desktop\INFORMATICA\TopoMemory\TopoMemory\bin\Debug\TopoMemory.exe.config
+D:\davide8540\@Desktop\INFORMATICA\TopoMemory\TopoMemory\bin\Debug\TopoMemory.exe
+D:\davide8540\@Desktop\INFORMATICA\TopoMemory\TopoMemory\bin\Debug\TopoMemory.pdb
+D:\davide8540\@Desktop\INFORMATICA\TopoMemory\TopoMemory\obj\Debug\TopoMemory.csprojAssemblyReference.cache
+D:\davide8540\@Desktop\INFORMATICA\TopoMemory\TopoMemory\obj\Debug\TopoMemory.TopoMemory.resources
+D:\davide8540\@Desktop\INFORMATICA\TopoMemory\TopoMemory\obj\Debug\TopoMemory.Properties.Resources.resources
+D:\davide8540\@Desktop\INFORMATICA\TopoMemory\TopoMemory\obj\Debug\TopoMemory.csproj.GenerateResource.cache
+D:\davide8540\@Desktop\INFORMATICA\TopoMemory\TopoMemory\obj\Debug\TopoMemory.exe
+D:\davide8540\@Desktop\INFORMATICA\TopoMemory\TopoMemory\obj\Debug\TopoMemory.pdb
+D:\davide8540\@Desktop\INFORMATICA\TopoMemory\TopoMemory\obj\Debug\TopoMemory.csproj.CoreCompileInputs.cache
