@@ -2,5 +2,5 @@ Programma creato alla scuola superiore tramite l'uso del modello "Form" di Visua
 Un semplice gioco "Memory" con vari meme inseriti
 <br><br>
 <p align="center">
-  <img src="Screen.p">
+  <img src="Screen.png">
 </p>
